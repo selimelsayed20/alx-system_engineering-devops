@@ -55,6 +55,3 @@ Now create a dashboard with different metrics displayed in order to get a few di
 * Create the answer file `2-setup_datadog` which has the `dashboard_id` on the first line. Note: in order to get the id of your dashboard, you may need to use [Datadog’s API](https://docs.datadoghq.com/api/?lang=python#get-all-dashboards)
 
 ---
-
-## Author
-* **Nga La** - [sungnga](https://github.com/sungnga)
